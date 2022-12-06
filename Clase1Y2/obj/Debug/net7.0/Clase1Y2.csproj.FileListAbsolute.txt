@@ -1,0 +1,15 @@
+/Users/Summer/Documents/devLigths/clase1y2/DevLightsClase1Y2/Clase1Y2/bin/Debug/net7.0/Clase1Y2
+/Users/Summer/Documents/devLigths/clase1y2/DevLightsClase1Y2/Clase1Y2/bin/Debug/net7.0/Clase1Y2.deps.json
+/Users/Summer/Documents/devLigths/clase1y2/DevLightsClase1Y2/Clase1Y2/bin/Debug/net7.0/Clase1Y2.runtimeconfig.json
+/Users/Summer/Documents/devLigths/clase1y2/DevLightsClase1Y2/Clase1Y2/bin/Debug/net7.0/Clase1Y2.dll
+/Users/Summer/Documents/devLigths/clase1y2/DevLightsClase1Y2/Clase1Y2/bin/Debug/net7.0/Clase1Y2.pdb
+/Users/Summer/Documents/devLigths/clase1y2/DevLightsClase1Y2/Clase1Y2/obj/Debug/net7.0/Clase1Y2.csproj.AssemblyReference.cache
+/Users/Summer/Documents/devLigths/clase1y2/DevLightsClase1Y2/Clase1Y2/obj/Debug/net7.0/Clase1Y2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Summer/Documents/devLigths/clase1y2/DevLightsClase1Y2/Clase1Y2/obj/Debug/net7.0/Clase1Y2.AssemblyInfoInputs.cache
+/Users/Summer/Documents/devLigths/clase1y2/DevLightsClase1Y2/Clase1Y2/obj/Debug/net7.0/Clase1Y2.AssemblyInfo.cs
+/Users/Summer/Documents/devLigths/clase1y2/DevLightsClase1Y2/Clase1Y2/obj/Debug/net7.0/Clase1Y2.csproj.CoreCompileInputs.cache
+/Users/Summer/Documents/devLigths/clase1y2/DevLightsClase1Y2/Clase1Y2/obj/Debug/net7.0/Clase1Y2.dll
+/Users/Summer/Documents/devLigths/clase1y2/DevLightsClase1Y2/Clase1Y2/obj/Debug/net7.0/refint/Clase1Y2.dll
+/Users/Summer/Documents/devLigths/clase1y2/DevLightsClase1Y2/Clase1Y2/obj/Debug/net7.0/Clase1Y2.pdb
+/Users/Summer/Documents/devLigths/clase1y2/DevLightsClase1Y2/Clase1Y2/obj/Debug/net7.0/Clase1Y2.genruntimeconfig.cache
+/Users/Summer/Documents/devLigths/clase1y2/DevLightsClase1Y2/Clase1Y2/obj/Debug/net7.0/ref/Clase1Y2.dll
